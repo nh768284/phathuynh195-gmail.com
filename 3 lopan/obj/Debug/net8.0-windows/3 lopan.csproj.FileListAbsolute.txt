@@ -1,0 +1,6 @@
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\_3_lopan.Form1.resources
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\3 lopan.csproj.GenerateResource.cache
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\3 lopan.GeneratedMSBuildEditorConfig.editorconfig
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\3 lopan.AssemblyInfoInputs.cache
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\3 lopan.AssemblyInfo.cs
+D:\huynhngocyennhi_2123110132\3 lopan\obj\Debug\net8.0-windows\3 lopan.csproj.CoreCompileInputs.cache
